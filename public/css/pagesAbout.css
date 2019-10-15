@@ -1,0 +1,6 @@
+.aboutImage{
+    border: solid 1px rgb(233, 22, 22);
+    height: 100px;
+    width: 100px;
+    border-radius:50% ;
+}
